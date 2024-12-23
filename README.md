@@ -1,7 +1,7 @@
 # Integrating Sentiment Analysis from Financial New for Enhanced Stock Market Prediction!
 
 
-This repository contains a Jupyter Notebook for analyzing stock market data and news headlines. The project aims to integrate numerical stock data and textual news data, perform sentiment analysis, and prepare the data for further analysis or modeling.
+This repository contains a colab Notebook for analyzing stock market data and news headlines. The project aims to integrate numerical stock data and textual news data, perform sentiment analysis, and prepare the data for further analysis or modeling.
 
 ## Project Structure
 
@@ -54,7 +54,7 @@ This repository contains a Jupyter Notebook for analyzing stock market data and 
 ## Requirements
 
 - Python 3.7+
-- Jupyter Notebook
+- Colab Notebook
 - Libraries:
   - pandas
   - numpy
@@ -65,9 +65,8 @@ This repository contains a Jupyter Notebook for analyzing stock market data and 
 
 ## Dataset
 
-- Stock data: [Add source or description here]
-- News headlines: [Add source or description here]
-
+- Stock data: https://acesse.one/jQ2p6
+- News headlines: https://www.kaggle.com/datasets/harshrkh/india-financial-news-headlines-sentiments
 ## Features
 
 - **Data Cleaning**: Handles missing values and inconsistent data.
@@ -82,7 +81,6 @@ This repository contains a Jupyter Notebook for analyzing stock market data and 
 
 Aditya Singh  
 Master in Computer Application (2024-26)  
-SRM University  
 
 ## License
 
