@@ -1,4 +1,4 @@
-# Integrating Sentiment Analysis from Financial New for Enhanced Stock Market Prediction!
+# Integrating Sentiment Analysis from Financial News for Enhanced Stock Market Prediction!
 
 
 This repository contains a colab Notebook for analyzing stock market data and news headlines. The project aims to integrate numerical stock data and textual news data, perform sentiment analysis, and prepare the data for further analysis or modeling.
